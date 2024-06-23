@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Catttt
 - 👀 I’m interested in write codings
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning AI/ML
 - 📫 How to reach me (+91) 733 953 3412 or anbu.bhuvan0451@gmail.com
 
 <!---
